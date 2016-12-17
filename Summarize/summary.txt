@@ -1,0 +1,7 @@
+Number of users: 151 
+Number of messages: 2870 
+Number of communitites discovered: 56 
+Average number of users per community: 30 
+Number of instances per class: 2081 positive and 789 negative 
+Example of positive class: RT @freddieoconnell: Real Nashville. Real America. https://t.co/6Vk1Lo9YJx 
+Example of negative class: Not in Russia, but Montenegro...but HELLO PEOPLE! Russia is in cahoots with Iran...and people are upset over a musi… https://t.co/V4QN2AAKeY 
